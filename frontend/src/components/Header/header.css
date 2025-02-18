@@ -2,14 +2,14 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #0D5E57;
+    background-color: #33444E;
 }
 
 .logo-box {
     padding: 10px;
 
     a img {
-        width: 220px;
+        width: 85%;
     }
 }
 
